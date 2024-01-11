@@ -51,19 +51,23 @@
 <br/>
 
 8. ```$ groups ```:<br/>
-   print the groups a user is in<br/>
+   print the groups a user is in
+   <br/>
+
 **_Usage:_**
 ![groups command](./images/groups.JPG)
 <br/>
 
 9. ```$ wget ```:<br/>
-   The non-interactive network downloader, lets us `download` files from the internet.<br/>
+   The non-interactive network downloader, lets us `download` files from the internet.
+   <br/>
 **_Usage:_**
 ![wget command](./images/wget.JPG)
 <br/>
 
 10. ```$ whatis ```:<br/>
-    This command displays one-line manual descriptions of given commands<br/>
-**_Usage:_**
+    <p>This command displays one-line manual descriptions of given commands</p>
+    <br/>
+**_Usage:_** <br/>
 ![whatis command](./images/whatis.JPG)
 <br/>
