@@ -1,0 +1,145 @@
+commit 549d76d4965b1d18e2d60453ee6cad22ce857031
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 09:02:08 2024 +0000
+
+    Added Excercise 5
+
+commit 9cfa2d7d3171e89c71d74081ef0465649aa1a775
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 08:54:08 2024 +0100
+
+    added etc/apt/sources.list file, excercis completed
+
+commit 426d974ff052b142cbf24904a6b4e5c06f019cf9
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 08:53:06 2024 +0100
+
+    added phpversion output file
+
+commit ebcb7aa4801ad872bb6010c016d2d1790933915d
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 08:52:34 2024 +0100
+
+    updated README file
+
+commit 5553d4bc0b31d1782b458e7797aeeb147c5e4e8c
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 05:54:58 2024 +0100
+
+    added excercise 4
+
+commit 635c0582a3801b955e816c5376ee6ed0acf067d0
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:09:40 2024 +0100
+
+    added /etc/group content
+
+commit 7711ca0f716a950c982dd034d706d5fd5733bd44
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:09:20 2024 +0100
+
+    added /etc/sudoers content
+
+commit 33a2135be6df592338617fc5d89635e78847927e
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:08:56 2024 +0100
+
+    added /etc/passwd content
+
+commit 8878cecf18a29159f10e79a8c4a339cdabf037d2
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:06:19 2024 +0100
+
+    added passwd, group & sudoers screenshots
+
+commit 1488b56e7a1e039c906ce984b306f720363e5b69
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:02:03 2024 +0100
+
+    added excercise 3
+
+commit 9840b44fa9fe74668a52fd91c0ef0d6b19151f3e
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 04:01:20 2024 +0100
+
+    updated README.md
+
+commit 1e27c5e73f1dc4c8ab82212ef55ea5aafea5ae0d
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Jan 11 03:57:13 2024 +0100
+
+    updated
+
+commit b017559abadca3c014aed441387a6e4ed3d89109
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 23:10:00 2023 +0100
+
+    updated readme
+
+commit 215fb7ba05af8f2573163cf9f7f6fdb0eb174bf0
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 22:56:54 2023 +0100
+
+    created and updated README for excercise 2
+
+commit b15b22ab3f161a016b489520b24902d17cf0aa3a
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 22:54:59 2023 +0100
+
+    added command output screenshots
+
+commit 881fe8454aef1da08ae28d433526d8b4f69b84a7
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 08:44:13 2023 +0100
+
+    added vagrantfile output with private_network set to dhcp
+
+commit 68a433703a596cc594ef27ca3e7676459862781c
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 08:38:43 2023 +0100
+
+    Revert "vagrantfile output with private_network set to dhcp"
+    
+    This reverts commit 0a62521daa2a6c75f93be5087769271fc65a8c2c.
+
+commit 0d49ce1e9163b5f980b2b19c84aed0b5e2991354
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 08:22:17 2023 +0100
+
+    updated excercise_1 readme file; excercise completed
+
+commit 0a62521daa2a6c75f93be5087769271fc65a8c2c
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 08:19:38 2023 +0100
+
+    vagrantfile output with private_network set to dhcp
+
+commit 6b32eb2ad85d92033ea9229f9e8a0f1cff50cae7
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 08:16:38 2023 +0100
+
+    added ifconfig output
+
+commit d28f31f8ceefe7a79ab2155ff8051bb349398bd9
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 05:44:45 2023 +0100
+
+    added Vagrantfile to excercise-1
+
+commit 6d45616fe27a3f915c9315e656d9d20229355f2e
+Author: devprinceng <devprinceng@gmail.com>
+Date:   Thu Dec 28 05:00:24 2023 +0100
+
+    created excercise_1 and readme file for it
+
+commit 90b66921e2843093e1668c9bc62bce0ddb24c5b2
+Author: Prince Ojoi <devprinceng@gmail.com>
+Date:   Wed Dec 27 15:44:40 2023 +0100
+
+    Update README.md
+
+commit d73707aee23d7998b5caea0d17c47c5eccf9580c
+Author: Prince Ojoi <devprinceng@gmail.com>
+Date:   Wed Dec 27 15:34:40 2023 +0100
+
+    Initial commit
